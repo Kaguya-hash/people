@@ -29,10 +29,7 @@ Although the platform is fully functional, several improvements are planned for 
 * Refactor the application into a more modular and maintainable architecture.
 * Improve separation of responsibilities through better class and component organization.
 * Optimize server-side processing and clustering execution performance.
-* Reduce frontend rendering overhead and improve responsiveness.
-* Improve scalability for larger datasets and concurrent usage.
 * Add support for additional clustering algorithms and benchmarking tools.
-* Expand analytical and visualization capabilities.
 
 ## Live Website
 
