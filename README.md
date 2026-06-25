@@ -35,7 +35,7 @@ Although the platform is fully functional, several improvements are planned for 
 
 The application is hosted on a free-tier service. Initial startup may take approximately 30–40 seconds while the server initializes.
 
-🌐 [https://people-gfhw.onrender.com/](https://people-gfhw.onrender.com/)
+🌐 [https://people-gfhw.onrender.com/](https://clustering-chrg-plus-pontual.onrender.com/)
 
 ## GitHub Repository
 
